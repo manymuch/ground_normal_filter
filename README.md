@@ -1,7 +1,7 @@
 # ground_normal_filter
 Official implementation of: Towards Accurate Ground Plane Normal Estimation from Ego-Motion  
 [Paper](https://www.mdpi.com/1424-8220/22/23/9375) | [Arxiv](https://arxiv.org/abs/2212.04224)
-| [Youtube]() | [Bilibili](https://www.bilibili.com/video/BV1sW4y1M79W/)
+| [Youtube](https://youtu.be/1wCIwQxCGWw) | [Bilibili](https://www.bilibili.com/video/BV1sW4y1M79W/)
 
 <p align="left">
   <img src="assets/demo.gif" width="70%"/>
